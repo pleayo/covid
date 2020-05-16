@@ -1,19 +1,19 @@
 ---
-title: Genomic analysis of COVID-19 spread in Australia and New Zealand.
+title: Phylogenetic analysis of COVID-19 spread in Australia and New Zealand.
 authors:
   - Dr Pleayo Tovaranonte
   - Dr Andrew Winnington
 authorLinks:
   - https://www.linkedin.com/in/pleayo/
   - https://www.linkedin.com/in/andrew-winnington-74996232/
-affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
+affiliations: "Precision Medicine International Ltd, Auckland, New Zealand"
 translators:
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
+dataset: "https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We attempt to analyse the genetic mutations within Oceania and predict how this affect epidemiology and severity of diseases."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
