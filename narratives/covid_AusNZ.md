@@ -21,15 +21,16 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [COVID-19 cases in Australia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [COVID-19 cases in New Zealand](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=2).     
+* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=3).  
+* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=4).  
+* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=5).  
+* [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=6).  
+* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=7).    
+* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=8).
+* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=9).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -49,7 +50,7 @@ We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community 
 
 <!-- This is left-side text 2-->
 # [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
+Some resources that will make interpreting the data we present in this narrative easier.
 #### Nextstrain Resources  
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
@@ -67,19 +68,19 @@ We've prepared some resources that will make interpreting the data we present in
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [A note on sampling](https://nextstrain.org/ncov/oceania?l=radial)
+We currently have sequences from samples taken in 2 countries - Australia and New Zealand. This is a collaborative achievement between the trans Tasman partnership. Sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
 <br><br>
 While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+For example, the map shows very few sequences from the Pacific Islands. This is NOT because COVID-19 is not circulating in these areas, or that these cases are not as crucial to understand; rather, we do not have sufficient data available from these areas.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Origins of the epidemic](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
 Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
 <br><br>
@@ -93,7 +94,7 @@ We don't have enough data to say what followed these other introductions -- if o
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [COVID-19 cases in Australia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
 In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
 <br><br>
@@ -110,14 +111,14 @@ This illustrates how the extent to which an introduction spreads within a popula
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [COVID-19 cases in New Zealand](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
 We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Frequent spread across international borders](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
 A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam.
 <br><br>
