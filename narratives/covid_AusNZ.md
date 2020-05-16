@@ -6,7 +6,7 @@ authors:
 authorLinks:
   - https://www.linkedin.com/in/pleayo/
   - https://www.linkedin.com/in/andrew-winnington-74996232/
-affiliations: "Precision Medicine International Ltd, Auckland, New Zealand"
+affiliations: "Precision Medicine International Ltd, Auckland, New Zealand, Precision Medicine International Ltd, Auckland, New Zealand"
 translators:
 translatorLinks:
 license: "CC-BY"  
@@ -58,7 +58,8 @@ We've prepared some resources that will make interpreting the data we present in
 * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+* [COVID-19 cases from the Department of Health, Australia](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers).
+* [COVID-19 cases from the Ministry of Health, New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases).
 <!-- There is no right-side text -->
 
 
