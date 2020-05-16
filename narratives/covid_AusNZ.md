@@ -6,14 +6,14 @@ authors:
 authorLinks:
   - https://www.linkedin.com/in/pleayo/
   - https://www.linkedin.com/in/andrew-winnington-74996232/
-affiliations: "Precision Medicine International Ltd, Auckland, New Zealand, Precision Medicine International Ltd, Auckland, New Zealand"
+affiliations: "Precision Medicine International Ltd, Auckland, New Zealand"
 translators:
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25"
 
-abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We attempt to analyse the genetic mutations within Oceania and predict how this affect epidemiology and severity of diseases."
+abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We attempt to analyse the genetic mutations within Oceania and predict how this will affect epidemiology and severity of diseases."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -25,9 +25,9 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 
 * [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
 * [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [Origins of the epidemic](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [COVID-19 cases in Australia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [COVID-19 cases in New Zealand](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
 * [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
 * [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
@@ -35,12 +35,13 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community platform, Nextstrain. By comparing the genetic compositions of SARS-CoV-2 virus based on their similarities and chronological timeline. We characterise how the COVID-19 is spreading the world and focus on the spread within Australia and New Zealand. In particular, we will be looking at:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+
+* Common regions within the RNA of SARS-CoV-2  
+* The underlying method of detection/ testing 
+* Epidemiology of COVID-19 in Australia
+* Epidemiology of COVID-19 in New Zealand
 ```
 
 
@@ -178,7 +179,14 @@ We also gratefully acknowledge GISAID for providing the platform through which t
 
 We are grateful for the data gathered by these originating labs:
 
-* AIDS Vaccine Research Laboratories
-* ARS Algarve - Laboratorio Laura Ayres
-* AZ Department of Health Services
+* Auckland Hospital
+* Christchurch Hospital
+* Queensland University
+* University of Auckland
+* University of Otago
+* University of Sydney
+* University of Melbourne
+* University of Adelaide
+* University of Perth
+* Wellington Hospital
 ```
