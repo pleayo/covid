@@ -2,10 +2,8 @@
 title: Phylogenetic analysis of COVID-19 spread in Australia and New Zealand.
 authors:
   - Dr Pleayo Tovaranonte
-  - Dr Andrew Winnington
 authorLinks:
   - https://www.linkedin.com/in/pleayo/
-  - https://www.linkedin.com/in/andrew-winnington-74996232/
 affiliations: "Precision Medicine International Ltd, Auckland, New Zealand"
 translators:
 translatorLinks:
@@ -13,7 +11,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25"
 
-abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We attempt to analyse the genetic mutations within Oceania and predict how this will affect epidemiology and severity of diseases."
+abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We analyse the genetic mutations of the SARS-CoV-2 virus and attempt to explain how virus subtypes affect epidemiology and severity of disease."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -36,7 +34,7 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community platform, Nextstrain. By comparing the genetic compositions of SARS-CoV-2 virus based on their similarities and chronological timeline. We characterise how the COVID-19 is spreading the world and focus on the spread within Australia and New Zealand. In particular, we will be looking at:
+We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community platform, Nextstrain. By comparing the genetic compositions of the SARS-CoV-2 virus based on their similarities and chronological timeline, we can characterise how the COVID-19 spreads around the world and focus on Australia and New Zealand. In particular, we look at:
 
 
 * Common regions within the RNA of SARS-CoV-2  
