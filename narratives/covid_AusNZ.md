@@ -69,6 +69,11 @@ Some resources that will make interpreting the data we present in this narrative
 # [A note on sampling](https://nextstrain.org/ncov/oceania?l=radial)
 We currently have sequences from samples taken in 2 countries - Australia and New Zealand. This is a collaborative achievement between the trans Tasman partnership. Sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
 <br><br>
+The most common screening test is the detection of the E-gene by real-time PCR, followed by a confirmatory test by the detection of the RdRP-gene by real-time PCR. Other tests available include N-gene, Orf1b-gene, virus isolation, and whole genome sequencing.
+
+The most preferred sampling method is from the lower respiratory tract (sputum, endotrachial excretions, or brocho-alveolar lavage).
+However, the most commonly performed sampling method is nasopharyngal swabbing. An alternative method is, of course, a post-mortem lung tissue biopsy.
+
 While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
 <br><br>
 For example, the map shows very few sequences from the Pacific Islands. This is NOT because COVID-19 is not circulating in these areas, or that these cases are not as crucial to understand; rather, we do not have sufficient data available from these areas.
@@ -78,15 +83,14 @@ For example, the map shows very few sequences from the Pacific Islands. This is 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Origins of the epidemic](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Origins of the epidemic](https://nextstrain.org/ncov/global)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
-<br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
-<br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+This phylogeny shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) viruses from the ongoing novel coronavirus COVID-19 pandemic. This phylogeny shows an initial emergence in Wuhan, China, in Nov-Dec 2019 followed by sustained human-to-human transmission leading to sampled infections. Although the genetic relationships among sampled viruses are quite clear, there is considerable uncertainty surrounding estimates of specific transmission dates and in reconstruction of geographic spread. Please be aware that specific inferred transmission patterns are only a hypothesis.
+
+There are thousands of complete genomes available now and this number increases by hundreds of every day. This visualization can only handle ~3000 genomes in a single view for performance and legibility reasons. Because of this we have to subsample available genome data for these analysis views. Our primary global analysis subsamples to 120 genomes per admin division per month. This will result in a more equitable global sequence distribution, but it hides samples available from regions that are doing lots of sequencing. To mitigate against this, we've set up separate analyses to focus on particular regions. They are available on the "Dataset" dropdown on the left or by clicking on the following links: Africa, Asia, Europe, North America, Oceania and South America.
+
+Site numbering and genome structure uses Wuhan-Hu-1/2019 as reference. The phylogeny is rooted relative to early samples from Wuhan. Temporal resolution assumes a nucleotide substitution rate of 8 × 10^-4 subs per site per year. Full details on bioinformatic processing can be found here.
+
 <!-- There is no right side text -->
 
 
@@ -168,7 +172,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 
 I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-Special thanks go to a fellow NZ scientist, Dr James Hadfield (https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
+Special thanks go to a fellow NZ scientist, [Dr James Hadfield] (https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
 
 <br><br>
 We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
@@ -181,6 +185,7 @@ We are grateful for the data gathered by these originating labs:
 
 * Auckland Hospital
 * Christchurch Hospital
+* [Institute of Environmental Science and Research (ESR)] (https://www.esr.cri.nz/home/about-esr/)
 * Queensland University
 * University of Auckland
 * University of Otago
