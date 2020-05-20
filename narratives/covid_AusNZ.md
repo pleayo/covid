@@ -47,7 +47,7 @@ We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+# [COVID-19 Resources](https://nextstrain.org/ncov/global)
 Some resources that will make interpreting the data we present in this narrative easier.
 #### Nextstrain Resources  
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
@@ -120,7 +120,7 @@ We have 14 sequences from Malaysia on Nextstrain, sampled between late January a
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Frequent spread across international borders](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Frequent spread across international borders](https://nextstrain.org/ncov/global)
 
 A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam.
 <br><br>
@@ -130,7 +130,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+# [What you can do](https://nextstrain.org/ncov/global)
 #### ...as an individual
 * Practice strict social distancing, especially if you are in a vulnerable group.
 * Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
@@ -167,11 +167,11 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Scientific credit](https://nextstrain.org/ncov/global)
 
 I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-Special thanks go to a fellow NZ scientist, [Dr James Hadfield] (https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
+Special thanks go to a fellow NZ scientist, [Dr James Hadfield](https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
 
 <br><br>
 We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
@@ -184,7 +184,7 @@ We are grateful for the data gathered by these originating labs:
 
 * Auckland Hospital
 * Christchurch Hospital
-* [Institute of Environmental Science and Research (ESR)] (https://www.esr.cri.nz/home/about-esr/)
+* [Institute of Environmental Science and Research (ESR)](https://www.esr.cri.nz/home/about-esr/)
 * Queensland University
 * University of Auckland
 * University of Otago
