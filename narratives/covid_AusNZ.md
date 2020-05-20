@@ -133,6 +133,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible.
+* Use the official COVID-19 tracking & tracing App
 
 #### ...as an official  
 * Make testing free and broadly available.  
@@ -165,10 +166,10 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- This is left-side text -->
 # [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-<br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Special thanks go to a fellow NZ scientist, Dr James Hadfield (https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
+
 <br><br>
 We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
