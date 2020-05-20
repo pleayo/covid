@@ -47,7 +47,7 @@ We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global)
+# [COVID-19 Resources](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 Some resources that will make interpreting the data we present in this narrative easier.
 #### Nextstrain Resources  
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
@@ -66,7 +66,7 @@ Some resources that will make interpreting the data we present in this narrative
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Sampling Methods](https://nextstrain.org/ncov/oceania?l=radial)
+# [Sampling Methods](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 We currently have sequences from samples taken in 2 countries - Australia and New Zealand. This is a collaborative achievement between the trans Tasman partnership. Sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
 <br><br>
 The most common screening test is the detection of the E-gene by real-time PCR, followed by a confirmatory test by the detection of the RdRP-gene by real-time PCR. Other tests available include N-gene, Orf1b-gene, virus isolation, and whole genome sequencing.
@@ -83,7 +83,7 @@ For example, the map shows very few sequences from the Pacific Islands. This is 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Origins of the epidemic](https://nextstrain.org/ncov/global)
+# [Origins of the epidemic](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 
 This phylogeny shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) viruses from the ongoing novel coronavirus COVID-19 pandemic. This phylogeny shows an initial emergence in Wuhan, China, in Nov-Dec 2019 followed by sustained human-to-human transmission leading to sampled infections. Although the genetic relationships among sampled viruses are quite clear, there is considerable uncertainty surrounding estimates of specific transmission dates and in reconstruction of geographic spread. Please be aware that specific inferred transmission patterns are only a hypothesis.
 <br><br>
@@ -120,7 +120,7 @@ We have 14 sequences from Malaysia on Nextstrain, sampled between late January a
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Frequent spread across international borders](https://nextstrain.org/ncov/global)
+# [Frequent spread across international borders](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 
 A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam.
 <br><br>
@@ -130,7 +130,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/global)
+# [What you can do](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 #### ...as an individual
 * Practice strict social distancing, especially if you are in a vulnerable group.
 * Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
@@ -167,7 +167,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global)
+# [Scientific credit](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 
 I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
