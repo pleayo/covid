@@ -37,10 +37,10 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community platform, Nextstrain. By comparing the genetic compositions of the SARS-CoV-2 virus based on their similarities and chronological timeline, we can characterise how the COVID-19 spreads around the world and focus on Australia and New Zealand. In particular, we look at:
 
 
-* Common regions within the RNA of SARS-CoV-2  
-* The underlying method of detection/ testing 
-* Epidemiology of COVID-19 in Australia
-* Epidemiology of COVID-19 in New Zealand
+* Sampling methods  
+* Origins of the epidemic
+* Phylogentic analysis of COVID-19 cases in Australia
+* Phylogentic analysis of COVID-19 cases in New Zealand
 ```
 
 
@@ -66,14 +66,14 @@ Some resources that will make interpreting the data we present in this narrative
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/oceania?l=radial)
+# [Sampling Methods](https://nextstrain.org/ncov/oceania?l=radial)
 We currently have sequences from samples taken in 2 countries - Australia and New Zealand. This is a collaborative achievement between the trans Tasman partnership. Sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
 <br><br>
 The most common screening test is the detection of the E-gene by real-time PCR, followed by a confirmatory test by the detection of the RdRP-gene by real-time PCR. Other tests available include N-gene, Orf1b-gene, virus isolation, and whole genome sequencing.
-
+<br><br>
 The most preferred sampling method is from the lower respiratory tract (sputum, endotrachial excretions, or brocho-alveolar lavage).
 However, the most commonly performed sampling method is nasopharyngal swabbing. An alternative method is, of course, a post-mortem lung tissue biopsy.
-
+<br><br>
 While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
 <br><br>
 For example, the map shows very few sequences from the Pacific Islands. This is NOT because COVID-19 is not circulating in these areas, or that these cases are not as crucial to understand; rather, we do not have sufficient data available from these areas.
@@ -86,17 +86,17 @@ For example, the map shows very few sequences from the Pacific Islands. This is 
 # [Origins of the epidemic](https://nextstrain.org/ncov/global)
 
 This phylogeny shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) viruses from the ongoing novel coronavirus COVID-19 pandemic. This phylogeny shows an initial emergence in Wuhan, China, in Nov-Dec 2019 followed by sustained human-to-human transmission leading to sampled infections. Although the genetic relationships among sampled viruses are quite clear, there is considerable uncertainty surrounding estimates of specific transmission dates and in reconstruction of geographic spread. Please be aware that specific inferred transmission patterns are only a hypothesis.
-
-There are thousands of complete genomes available now and this number increases by hundreds of every day. This visualization can only handle ~3000 genomes in a single view for performance and legibility reasons. Because of this we have to subsample available genome data for these analysis views. Our primary global analysis subsamples to 120 genomes per admin division per month. This will result in a more equitable global sequence distribution, but it hides samples available from regions that are doing lots of sequencing. To mitigate against this, we've set up separate analyses to focus on particular regions. They are available on the "Dataset" dropdown on the left or by clicking on the following links: Africa, Asia, Europe, North America, Oceania and South America.
-
-Site numbering and genome structure uses Wuhan-Hu-1/2019 as reference. The phylogeny is rooted relative to early samples from Wuhan. Temporal resolution assumes a nucleotide substitution rate of 8 × 10^-4 subs per site per year. Full details on bioinformatic processing can be found here.
+<br><br>
+There are thousands of complete genomes available now and this number increases by hundreds of every day. This visualization can only handle ~3000 genomes in a single view for performance and legibility reasons. Because of this we have to subsample available genome data for these analysis views. Our primary global analysis subsamples to 120 genomes per admin division per month. This will result in a more equitable global sequence distribution, but it hides samples available from regions that are doing lots of sequencing.
+<br><br>
+Site numbering and genome structure uses Wuhan-Hu-1/2019 as reference. The phylogeny is rooted relative to early samples from Wuhan. Temporal resolution assumes a nucleotide substitution rate of 8 × 10^-4 subs per site per year.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [COVID-19 cases in Australia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Phylogentic analysis of COVID-19 cases in Australia](https://nextstrain.org/ncov/oceania?f_country=Australia)
 
 In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
 <br><br>
@@ -113,7 +113,7 @@ This illustrates how the extent to which an introduction spreads within a popula
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [COVID-19 cases in New Zealand](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Phylogentic analysis of COVID-19 cases in New Zealand](https://nextstrain.org/ncov/oceania?f_country=New%20Zealand)
 
 We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
 
@@ -144,7 +144,6 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 * Put strong social distancing measures in place.  
 * Fund and implement extensive contact tracing efforts.  
 * Financially support those impacted by social distancing measures.
-
 
 <!-- This is the right-side text -->
 
