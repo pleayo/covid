@@ -34,12 +34,13 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community platform, Nextstrain. By comparing the genetic compositions of the SARS-CoV-2 virus based on their similarities and chronological timeline, we can characterise how the COVID-19 spreads around the world and focus on Australia and New Zealand. In particular, we look at:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+
+* Sampling methods  
+* Origins of the epidemic
+* Phylogentic analysis of COVID-19 cases in Australia
+* Phylogentic analysis of COVID-19 cases in New Zealand
 ```
 
 
@@ -47,7 +48,7 @@ We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral gen
 
 <!-- This is left-side text 2-->
 # [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
+Some resources that will make interpreting the data we present in this narrative easier.
 #### Nextstrain Resources  
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
@@ -57,19 +58,25 @@ We've prepared some resources that will make interpreting the data we present in
 * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+* [COVID-19 cases from the Department of Health, Australia](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers).
+* [COVID-19 cases from the Ministry of Health, New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Sampling Methods](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
+We currently have sequences from samples taken in 2 countries - Australia and New Zealand. This is a collaborative achievement between the trans Tasman partnership. Sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+<br><br>
+The most common screening test is the detection of the E-gene by real-time PCR, followed by a confirmatory test by the detection of the RdRP-gene by real-time PCR. Other tests available include N-gene, Orf1b-gene, virus isolation, and whole genome sequencing.
+<br><br>
+The most preferred sampling method is from the lower respiratory tract (sputum, endotrachial excretions, or brocho-alveolar lavage).
+However, the most commonly performed sampling method is nasopharyngal swabbing. An alternative method is, of course, a post-mortem lung tissue biopsy.
 <br><br>
 While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+For example, the map shows very few sequences from the Pacific Islands. This is NOT because COVID-19 is not circulating in these areas, or that these cases are not as crucial to understand; rather, we do not have sufficient data available from these areas.
 
 <!-- There is NO right-side text -->
 
