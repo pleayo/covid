@@ -112,9 +112,9 @@ This illustrates how the extent to which an introduction spreads within a popula
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Phylogentic analysis of COVID-19 cases in New Zealand](https://nextstrain.org/ncov/oceania?f_country=New%20Zealand)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+We have a limited number of sequences from New Zealand on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which came from Europe and later from South East Asia. This suggests that there have been multiple introductions from the surrounding region into New Zealand.
 
 
 <!-- ############ SLIDE BREAK ############# -->
