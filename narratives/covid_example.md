@@ -1,7 +1,7 @@
 ---
 title: Exploring the narrative functionality using the ongoing mumps epidemic in North America
-authors: "James Hadfield"
-authorLinks: "https://twitter.com/hamesjadfield"
+authors: "Dr Pleayo Tovaranonte"
+authorLinks: "https://www.linkedin.com/in/pleayo/"
 affiliations: "Fred Hutch, Seattle, USA"
 date: "August 2018"
 dataset: "https://nextstrain.org/mumps/na?d=tree"
