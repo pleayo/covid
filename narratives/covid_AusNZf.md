@@ -95,16 +95,16 @@ Site numbering and genome structure uses Wuhan-Hu-1/2019 as reference. The phylo
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Phylogentic analysis of COVID-19 cases in Australia](https://nextstrain.org/ncov/oceania?f_country=Australia)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+In the last 3 months, SARS-CoV-2 has been introduced to Australia many times, from multiple locations.
 <br><br>
 Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
 <br><br>
 In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+This large, cohesive cluster is most closely related to samples from China and Italy.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+
 <br><br>
 This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
 <!-- There is no right side text -->
