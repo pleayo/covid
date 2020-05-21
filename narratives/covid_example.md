@@ -2,7 +2,7 @@
 title: Exploring the narrative functionality using the ongoing mumps epidemic in North America
 authors: "Dr Pleayo Tovaranonte"
 authorLinks: "https://www.linkedin.com/in/pleayo/"
-affiliations: "Fred Hutch, Seattle, USA"
+affiliations: "Precision Medicine International, Auckland, New Zealand"
 date: "August 2018"
 dataset: "https://nextstrain.org/mumps/na?d=tree"
 abstract: "This content is here to test the potential of the nextstrain (auspice) narrative functionality. It uses the Publicly available North American mumps dataset [here](https://www.nextstrain.org/mumps/na) to explore what's possible using narratives."
