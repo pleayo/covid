@@ -41,6 +41,7 @@ We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community 
 * Origins of the epidemic
 * Phylogentic analysis of COVID-19 cases in Australia
 * Phylogentic analysis of COVID-19 cases in New Zealand
+* Regional spread across Asia
 ```
 
 
@@ -53,13 +54,12 @@ Some resources that will make interpreting the data we present in this narrative
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
-
 #### External Resources  
 * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [COVID-19 cases from the Department of Health, Australia](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers).
-* [COVID-19 cases from the Ministry of Health, New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases).
+* [Department of Health, Australia](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers).
+* [Ministry of Health, New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases).
 <!-- There is no right-side text -->
 
 
@@ -136,7 +136,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible.
-
+* Use the official COVID-19 tracking & tracing App
 #### ...as an official  
 * Make testing free and broadly available.  
 * Put strong social distancing measures in place.  
@@ -168,10 +168,9 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- This is left-side text -->
 # [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-<br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Special thanks go to a fellow NZ scientist, [Dr James Hadfield](https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
 <br><br>
 We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
@@ -181,12 +180,16 @@ We also gratefully acknowledge GISAID for providing the platform through which t
 
 We are grateful for the data gathered by these originating labs:
 
-* AIDS Vaccine Research Laboratories
-* ARS Algarve - Laboratorio Laura Ayres
-* AZ Department of Health Services
-* AZ SPHL, Arizona Department of Health Services
-* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Virology Laboratory
-* Andersen Lab, The Scripps Research Institute
-* Arizona Department of Health Services
+* Auckland Hospital
+* Burwood Hospital, Christchurch
+* Christchurch Pulic Hospital
+* [Institute of Environmental Science and Research](https://www.esr.cri.nz)
+* Queensland University
+* University of Auckland
+* University of Otago
+* University of Sydney
+* University of Melbourne
+* University of Adelaide
+* University of Perth
+* Wellington Hospital
 ```
