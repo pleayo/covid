@@ -193,13 +193,5 @@ We are grateful for the data gathered by these originating labs:
 * AZ SPHL, Arizona Department of Health Services
 * Akershus University Hospital, Department for Microbiology and Infectious Disease Control
 * Alaska State Virology Laboratory
-* Andersen Lab, The Scripps Research Institute
-* Arizona Department of Health Services
-* Arizona State University Health Services
-* Auckland Hospital
-* BCCDC Public Health Laboratory
-* Bamrasnaradura Hospital
-* Beijing Institute of Microbiology and Epidemiology
-* Brian D. Allgood Army Community Hospital
 
 ```
