@@ -167,27 +167,30 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Scientific credit]
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Special thanks go to a fellow NZ scientist, [Dr James Hadfield](https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
+
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
-<br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+I also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+I am grateful for the data gathered by these originating labs:
 
-* AIDS Vaccine Research Laboratories
-* ARS Algarve - Laboratorio Laura Ayres
-* AZ Department of Health Services
-* AZ SPHL, Arizona Department of Health Services
-* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Virology Laboratory
-* Andersen Lab, The Scripps Research Institute
-* Arizona Department of Health Services
+* Auckland Hospital
+* Christchurch Hospital
+* [Institute of Environmental Science and Research (ESR)](https://www.esr.cri.nz/home/about-esr/)
+* Queensland University
+* University of Auckland
+* University of Otago
+* University of Sydney
+* University of Melbourne
+* University of Adelaide
+* University of Perth
+* Wellington Hospital
 ```
