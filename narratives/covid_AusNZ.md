@@ -19,16 +19,16 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?d=tree,map&p=grid)
+# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=2).     
-* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=3).  
-* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=4).  
-* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=5).  
-* [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=6).  
-* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=7).    
-* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=8).
-* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=9).
+* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=2).     
+* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=3).  
+* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=4).  
+* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=5).  
+* [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=6).  
+* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=7).    
+* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=8).
+* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=9).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -112,9 +112,9 @@ This illustrates how the extent to which an introduction spreads within a popula
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Phylogentic analysis of COVID-19 cases in New Zealand](https://nextstrain.org/ncov/oceania?f_country=New%20Zealand)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+We have a limited number of sequences from New Zealand on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which came from Europe and later from South East Asia. This suggests that there have been multiple introductions from the surrounding region into New Zealand.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -167,32 +167,26 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 
 <!-- This is left-side text -->
 # [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
-I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
 
-Special thanks go to a fellow NZ scientist, [Dr James Hadfield](https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
+We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+<br><br>
+The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
 We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
 <!-- Do not need to translate institutions names -->
-
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
 We are grateful for the data gathered by these originating labs:
 
-* Auckland Hospital
-* Christchurch Hospital
-<<<<<<< HEAD
-* [Institute of Environmental Science and Research (ESR)](https://www.esr.cri.nz/home/about-esr/)
-=======
->>>>>>> parent of 8702bff... Update on sampling methods
-* Queensland University
-* University of Auckland
-* University of Otago
-* University of Sydney
-* University of Melbourne
-* University of Adelaide
-* University of Perth
-* Wellington Hospital
+* AIDS Vaccine Research Laboratories
+* ARS Algarve - Laboratorio Laura Ayres
+* AZ Department of Health Services
+* AZ SPHL, Arizona Department of Health Services
+* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
+* Alaska State Virology Laboratory
+* Andersen Lab, The Scripps Research Institute
+* Arizona Department of Health Services
 ```
