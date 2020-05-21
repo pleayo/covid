@@ -1,29 +1,17 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: Phylogenetic analysis of COVID-19 spread in Australia and New Zealand.
 authors:
-  - Cassia Wagner
-  - Sidney M. Bell
-  - Nicola Müller
-  - Emma Hodcroft
-  - James Hadfield
-  - Richard Neher
-  - Trevor Bedford
+  - Dr Pleayo Tovaranonte
 authorLinks:
-  - https://bedford.io/team/cassia-wagner/
-  - https://twitter.com/sidneymbell
-  - https://bedford.io/team/nicola-mueller/
-  - https://neherlab.org/emma-hodcroft.html
-  - https://bedford.io/team/james-hadfield/
-  - https://neherlab.org/richard-neher.html
-  - https://bedford.io/team/trevor-bedford/
-affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
+  - https://www.linkedin.com/in/pleayo/
+affiliations: "Precision Medicine International Ltd, Auckland, New Zealand"
 translators:
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
+dataset: "https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We analyse the genetic mutations of the SARS-CoV-2 virus and attempt to explain how virus subtypes affect epidemiology and severity of disease."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -193,45 +181,5 @@ We are grateful for the data gathered by these originating labs:
 * AZ SPHL, Arizona Department of Health Services
 * Akershus University Hospital, Department for Microbiology and Infectious Disease Control
 * Alaska State Virology Laboratory
-* Andersen Lab, The Scripps Research Institute
-* Arizona Department of Health Services
-* Arizona State University Health Services
-* Auckland Hospital
-* BCCDC Public Health Laboratory
-* Bamrasnaradura Hospital
-* Beijing Institute of Microbiology and Epidemiology
-* Brian D. Allgood Army Community Hospital
-* Bundeswehr Institute of Microbiology
-* CH Barreiro Montijo
-* CH Compiegne Laboratoire de Biologie
-* CH Jean de Navarre Laboratoire de Biologie
-* CH VN Gaia - Espinho
-* CHBarreiro Montijo
-* CHMT
-* CHRU Bretonneau - Serv. Bacterio-Virol.
-* CHRU Pontchaillou - Laboratoire de Virologie
-* CHTMAD
-* CHU - Hopital Cavale Blanche - Labo. de Virologie
-* CHU Coimbra
-* CHU Coimbra - Pediatrico
-* CHU Gabriel Montpied
-* CHU Purpan - Laboratoire de Virologie - Institut Federatif de Biologie
-* CHUA - Faro
-* CHULC - H Curry Cabral
-* CHULC - H D Estefania
-* CMIP
-* CNR Virus des Infections Respiratoires - France SUD
-* COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS
-* CR&WISCO GENERAL HOSPITAL
-* CT-Dr. Katherine A. Kelley State Public Health Lab
-* Cabinet medical
-* Cadham Provincial Laboratory
-* California Department of Health
-* California Department of Public Health
-* Center for Virology, Medical University of Vienna
-* Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf
-* Centers for Disease Control, R.O.C. (Taiwan)
-* Central Virology Laboratory
-* Centre Hositalier Universitaire de Rouen Laboratoire de Vi
 
 ```
