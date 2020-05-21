@@ -22,7 +22,7 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 # [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ_2020?d=tree,map&p=grid)
 
 * [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ_2020?n=2).     
-* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ_2020?n=3).  
+* [Sampling methods](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ_2020?n=3).  
 * [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ_2020?n=4).  
 * [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ_2020?n=5).  
 * [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ_2020?n=6).  
@@ -34,12 +34,13 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community platform, Nextstrain. By comparing the genetic compositions of the SARS-CoV-2 virus based on their similarities and chronological timeline, we can characterise how the COVID-19 spreads around the world and focus on Australia and New Zealand. In particular, we look at:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+
+* Sampling methods  
+* Origins of the epidemic
+* Phylogentic analysis of COVID-19 cases in Australia
+* Phylogentic analysis of COVID-19 cases in New Zealand
 ```
 
 
@@ -161,12 +162,12 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Scientific credit](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-<br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Special thanks go to a fellow NZ scientist, [Dr James Hadfield](https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
+
 <br><br>
 We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
@@ -176,11 +177,16 @@ We also gratefully acknowledge GISAID for providing the platform through which t
 
 We are grateful for the data gathered by these originating labs:
 
-* AIDS Vaccine Research Laboratories
-* ARS Algarve - Laboratorio Laura Ayres
-* AZ Department of Health Services
-* AZ SPHL, Arizona Department of Health Services
-* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Virology Laboratory
+* Auckland Hospital
+* Christchurch Hospital
+* [Institute of Environmental Science and Research](https://www.esr.cri.nz/home/about-esr/)
+* Queensland University
+* University of Auckland
+* University of Otago
+* University of Sydney
+* University of Melbourne
+* University of Adelaide
+* University of Perth
+* Wellington Hospital
 
 ```
