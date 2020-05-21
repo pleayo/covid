@@ -13,6 +13,7 @@ dataset: "https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25"
 
 abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We analyse the genetic mutations of the SARS-CoV-2 virus and attempt to explain how virus subtypes affect epidemiology and severity of disease."
 ---
+
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
 <!-- Ensure that links always end in a 'letter' (. counts) If some kind of text doesn't follow them, it breaks the slide. -->
@@ -180,6 +181,5 @@ We are grateful for the data gathered by these originating labs:
 * AZ Department of Health Services
 * AZ SPHL, Arizona Department of Health Services
 * Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Virology Laboratory
 
 ```
