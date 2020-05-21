@@ -19,16 +19,16 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?d=tree,map&p=grid)
+# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=2).     
-* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=3).  
-* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=4).  
-* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=5).  
-* [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=6).  
-* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=7).    
-* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=8).
-* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=9).
+* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=2).     
+* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=3).  
+* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=4).  
+* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=5).  
+* [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=6).  
+* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=7).    
+* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=8).
+* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=9).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -47,7 +47,7 @@ We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
+# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 Some resources that will make interpreting the data we present in this narrative easier.
 #### Nextstrain Resources  
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
@@ -69,14 +69,11 @@ Some resources that will make interpreting the data we present in this narrative
 # [Sampling Methods](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 We currently have sequences from samples taken in 2 countries - Australia and New Zealand. This is a collaborative achievement between the trans Tasman partnership. Sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
 <br><br>
-<<<<<<< HEAD
 The most common screening test is the detection of the E-gene by real-time PCR, followed by a confirmatory test by the detection of the RdRP-gene by real-time PCR. Other tests available include N-gene, Orf1b-gene, virus isolation, and whole genome sequencing.
 <br><br>
 The most preferred sampling method is from the lower respiratory tract (sputum, endotrachial excretions, or brocho-alveolar lavage).
 However, the most commonly performed sampling method is nasopharyngal swabbing. An alternative method is, of course, a post-mortem lung tissue biopsy.
 <br><br>
-=======
->>>>>>> parent of 8702bff... Update on sampling methods
 While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
 <br><br>
 For example, the map shows very few sequences from the Pacific Islands. This is NOT because COVID-19 is not circulating in these areas, or that these cases are not as crucial to understand; rather, we do not have sufficient data available from these areas.
@@ -86,7 +83,6 @@ For example, the map shows very few sequences from the Pacific Islands. This is 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-<<<<<<< HEAD
 # [Origins of the epidemic](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
 
 This phylogeny shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) viruses from the ongoing novel coronavirus COVID-19 pandemic. This phylogeny shows an initial emergence in Wuhan, China, in Nov-Dec 2019 followed by sustained human-to-human transmission leading to sampled infections. Although the genetic relationships among sampled viruses are quite clear, there is considerable uncertainty surrounding estimates of specific transmission dates and in reconstruction of geographic spread. Please be aware that specific inferred transmission patterns are only a hypothesis.
@@ -94,17 +90,6 @@ This phylogeny shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) virus
 There are thousands of complete genomes available now and this number increases by hundreds of every day. This visualization can only handle ~3000 genomes in a single view for performance and legibility reasons. Because of this we have to subsample available genome data for these analysis views. Our primary global analysis subsamples to 120 genomes per admin division per month. This will result in a more equitable global sequence distribution, but it hides samples available from regions that are doing lots of sequencing.
 <br><br>
 Site numbering and genome structure uses Wuhan-Hu-1/2019 as reference. The phylogeny is rooted relative to early samples from Wuhan. Temporal resolution assumes a nucleotide substitution rate of 8 × 10^-4 subs per site per year.
-=======
-# [Origins of the epidemic](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
->>>>>>> parent of 8702bff... Update on sampling methods
-
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
-<br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
-<br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
 <!-- There is no right side text -->
 
 
@@ -112,14 +97,14 @@ We don't have enough data to say what followed these other introductions -- if o
 <!-- This is left-side text -->
 # [Phylogentic analysis of COVID-19 cases in Australia](https://nextstrain.org/ncov/oceania?f_country=Australia)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+In the last 3 months, SARS-CoV-2 has been introduced to Australia many times, from multiple locations.
 <br><br>
 Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
 <br><br>
 In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+This large, cohesive cluster is most closely related to samples from China and Italy.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+
 <br><br>
 This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
 <!-- There is no right side text -->
@@ -127,14 +112,14 @@ This illustrates how the extent to which an introduction spreads within a popula
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Phylogentic analysis of COVID-19 cases in New Zealand](https://nextstrain.org/ncov/oceania?f_country=New%20Zealand)
+# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
 We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Frequent spread across international borders](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
+# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
 A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam.
 <br><br>
@@ -144,20 +129,20 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
+# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
 #### ...as an individual
 * Practice strict social distancing, especially if you are in a vulnerable group.
 * Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible.
-* Use the official COVID-19 tracking & tracing App
 
 #### ...as an official  
 * Make testing free and broadly available.  
 * Put strong social distancing measures in place.  
 * Fund and implement extensive contact tracing efforts.  
 * Financially support those impacted by social distancing measures.
+
 
 <!-- This is the right-side text -->
 
@@ -181,20 +166,16 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
-
+# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-<<<<<<< HEAD
-Special thanks go to a fellow NZ scientist, [Dr James Hadfield](https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
-=======
-Special thanks go to a fellow NZ scientist, Dr James Hadfield (https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
->>>>>>> parent of 8702bff... Update on sampling methods
 
+Special thanks go to a fellow NZ scientist, [Dr James Hadfield](https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
 <br><br>
 We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
 <!-- Do not need to translate institutions names -->
+
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
