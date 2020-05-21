@@ -1,17 +1,29 @@
 ﻿---
-title: Phylogenetic analysis of COVID-19 spread in Australia and New Zealand.
+title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
 authors:
-  - Dr Pleayo Tovaranonte
+  - Cassia Wagner
+  - Sidney M. Bell
+  - Nicola Müller
+  - Emma Hodcroft
+  - James Hadfield
+  - Richard Neher
+  - Trevor Bedford
 authorLinks:
-  - https://www.linkedin.com/in/pleayo/
-affiliations: "Precision Medicine International Ltd, Auckland, New Zealand"
+  - https://bedford.io/team/cassia-wagner/
+  - https://twitter.com/sidneymbell
+  - https://bedford.io/team/nicola-mueller/
+  - https://neherlab.org/emma-hodcroft.html
+  - https://bedford.io/team/james-hadfield/
+  - https://neherlab.org/richard-neher.html
+  - https://bedford.io/team/trevor-bedford/
+affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25"
+dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We analyse the genetic mutations of the SARS-CoV-2 virus and attempt to explain how virus subtypes affect epidemiology and severity of disease."
+abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -19,27 +31,26 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?d=tree,map&p=grid)
+# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=2).     
-* [Sampling Methods](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=3).  
-* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=4).  
-* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=5).  
-* [COVID-19 cases in New Zealand](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=7).    
-* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=8).
-* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=9).
+* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
+* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community platform, Nextstrain. By comparing the genetic compositions of the SARS-CoV-2 virus based on their similarities and chronological timeline, we can characterise how the COVID-19 spreads around the world and focus on Australia and New Zealand. In particular, we look at:
+We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
 
-* Sampling methods  
-* Origins of the epidemic
-* Phylogentic analysis of COVID-19 cases in Australia
-* Phylogentic analysis of COVID-19 cases in New Zealand
+* Multiple introductions to Delhi during March 2020 from all over the world  
+* Many separate introductions to Singapore, most of which do not appear to have spread further  
+* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
+* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
 ```
 
 
