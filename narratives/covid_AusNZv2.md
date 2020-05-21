@@ -1,17 +1,29 @@
----
-title: Phylogenetic analysis of COVID-19 spread in Australia and New Zealand.
+﻿---
+title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
 authors:
-  - Dr Pleayo Tovaranonte
+  - Cassia Wagner
+  - Sidney M. Bell
+  - Nicola Müller
+  - Emma Hodcroft
+  - James Hadfield
+  - Richard Neher
+  - Trevor Bedford
 authorLinks:
-  - https://www.linkedin.com/in/pleayo/
-affiliations: "Precision Medicine International Ltd, Auckland, New Zealand"
+  - https://bedford.io/team/cassia-wagner/
+  - https://twitter.com/sidneymbell
+  - https://bedford.io/team/nicola-mueller/
+  - https://neherlab.org/emma-hodcroft.html
+  - https://bedford.io/team/james-hadfield/
+  - https://neherlab.org/richard-neher.html
+  - https://bedford.io/team/trevor-bedford/
+affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25"
+dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We analyse the genetic mutations of the SARS-CoV-2 virus and attempt to explain how virus subtypes affect epidemiology and severity of disease."
+abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -19,36 +31,34 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?d=tree,map&p=grid)
+# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=2).     
-* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=3).  
-* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=4).  
-* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=5).  
-* [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=6).  
-* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=7).    
-* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=8).
-* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=9).
+* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
+* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community platform, Nextstrain. By comparing the genetic compositions of the SARS-CoV-2 virus based on their similarities and chronological timeline, we can characterise how the COVID-19 spreads around the world and focus on Australia and New Zealand. In particular, we look at:
+We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
 
-
-* Sampling methods  
-* Origins of the epidemic
-* Phylogentic analysis of COVID-19 cases in Australia
-* Phylogentic analysis of COVID-19 cases in New Zealand
+* Multiple introductions to Delhi during March 2020 from all over the world  
+* Many separate introductions to Singapore, most of which do not appear to have spread further  
+* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
+* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
-Some resources that will make interpreting the data we present in this narrative easier.
+# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+We've prepared some resources that will make interpreting the data we present in this narrative easier.
 #### Nextstrain Resources  
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
@@ -58,45 +68,40 @@ Some resources that will make interpreting the data we present in this narrative
 * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [COVID-19 cases from the Department of Health, Australia](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers).
-* [COVID-19 cases from the Ministry of Health, New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases).
+* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Sampling Methods](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
-We currently have sequences from samples taken in 2 countries - Australia and New Zealand. This is a collaborative achievement between the trans Tasman partnership. Sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
-<br><br>
-The most common screening test is the detection of the E-gene by real-time PCR, followed by a confirmatory test by the detection of the RdRP-gene by real-time PCR. Other tests available include N-gene, Orf1b-gene, virus isolation, and whole genome sequencing.
-<br><br>
-The most preferred sampling method is from the lower respiratory tract (sputum, endotrachial excretions, or brocho-alveolar lavage).
-However, the most commonly performed sampling method is nasopharyngal swabbing. An alternative method is, of course, a post-mortem lung tissue biopsy.
+# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
 <br><br>
 While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
 <br><br>
-For example, the map shows very few sequences from the Pacific Islands. This is NOT because COVID-19 is not circulating in these areas, or that these cases are not as crucial to understand; rather, we do not have sufficient data available from these areas.
+For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Origins of the epidemic](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
+# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-This phylogeny shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) viruses from the ongoing novel coronavirus COVID-19 pandemic. This phylogeny shows an initial emergence in Wuhan, China, in Nov-Dec 2019 followed by sustained human-to-human transmission leading to sampled infections. Although the genetic relationships among sampled viruses are quite clear, there is considerable uncertainty surrounding estimates of specific transmission dates and in reconstruction of geographic spread. Please be aware that specific inferred transmission patterns are only a hypothesis.
+Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
 <br><br>
-There are thousands of complete genomes available now and this number increases by hundreds of every day. This visualization can only handle ~3000 genomes in a single view for performance and legibility reasons. Because of this we have to subsample available genome data for these analysis views. Our primary global analysis subsamples to 120 genomes per admin division per month. This will result in a more equitable global sequence distribution, but it hides samples available from regions that are doing lots of sequencing.
+In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
 <br><br>
-Site numbering and genome structure uses Wuhan-Hu-1/2019 as reference. The phylogeny is rooted relative to early samples from Wuhan. Temporal resolution assumes a nucleotide substitution rate of 8 × 10^-4 subs per site per year.
-
+However, it is crucial to consider the context of this cluster.  
+Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
+We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Phylogentic analysis of COVID-19 cases in Australia](https://nextstrain.org/ncov/oceania?f_country=Australia)
+# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
 In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
 <br><br>
@@ -113,14 +118,14 @@ This illustrates how the extent to which an introduction spreads within a popula
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Phylogentic analysis of COVID-19 cases in New Zealand](https://nextstrain.org/ncov/oceania?f_country=New%20Zealand)
+# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
 We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Frequent spread across international borders](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
+# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
 A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam.
 <br><br>
@@ -130,20 +135,20 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
+# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
 #### ...as an individual
 * Practice strict social distancing, especially if you are in a vulnerable group.
 * Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible.
-* Use the official COVID-19 tracking & tracing App
 
 #### ...as an official  
 * Make testing free and broadly available.  
 * Put strong social distancing measures in place.  
 * Fund and implement extensive contact tracing efforts.  
 * Financially support those impacted by social distancing measures.
+
 
 <!-- This is the right-side text -->
 
@@ -167,12 +172,12 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25)
+# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-I would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-Special thanks go to a fellow NZ scientist, [Dr James Hadfield](https://twitter.com/hamesjadfield) who is a phylogeneticist and a genius behind Nextstrain based in Wanaka.
-
+<br><br>
+The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
 We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
@@ -182,15 +187,19 @@ We also gratefully acknowledge GISAID for providing the platform through which t
 
 We are grateful for the data gathered by these originating labs:
 
+* AIDS Vaccine Research Laboratories
+* ARS Algarve - Laboratorio Laura Ayres
+* AZ Department of Health Services
+* AZ SPHL, Arizona Department of Health Services
+* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
+* Alaska State Virology Laboratory
+* Andersen Lab, The Scripps Research Institute
+* Arizona Department of Health Services
+* Arizona State University Health Services
 * Auckland Hospital
-* Christchurch Hospital
-* [Institute of Environmental Science and Research (ESR)](https://www.esr.cri.nz/home/about-esr/)
-* Queensland University
-* University of Auckland
-* University of Otago
-* University of Sydney
-* University of Melbourne
-* University of Adelaide
-* University of Perth
-* Wellington Hospital
+* BCCDC Public Health Laboratory
+* Bamrasnaradura Hospital
+* Beijing Institute of Microbiology and Epidemiology
+* Brian D. Allgood Army Community Hospital
+
 ```
