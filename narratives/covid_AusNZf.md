@@ -1,29 +1,17 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: Phylogenetic analysis of COVID-19 spread in Australia and New Zealand.
 authors:
-  - Cassia Wagner
-  - Sidney M. Bell
-  - Nicola Müller
-  - Emma Hodcroft
-  - James Hadfield
-  - Richard Neher
-  - Trevor Bedford
+  - Dr Pleayo Tovaranonte
 authorLinks:
-  - https://bedford.io/team/cassia-wagner/
-  - https://twitter.com/sidneymbell
-  - https://bedford.io/team/nicola-mueller/
-  - https://neherlab.org/emma-hodcroft.html
-  - https://bedford.io/team/james-hadfield/
-  - https://neherlab.org/richard-neher.html
-  - https://bedford.io/team/trevor-bedford/
-affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
+  - https://www.linkedin.com/in/pleayo/
+affiliations: "Precision Medicine International Ltd, Auckland, New Zealand"
 translators:
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
+dataset: "https://nextstrain.org/ncov/oceania?c=location&dmin=2019-12-25"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "This report uses publicly shared phylogenetic data to track the spread of COVID-19 in Australia and New Zealand. We analyse the genetic mutations of the SARS-CoV-2 virus and attempt to explain how virus subtypes affect epidemiology and severity of disease."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,15 +19,16 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=2).     
+* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=3).  
+* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=4).  
+* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=5).  
+* [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=6).  
+* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=7).    
+* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=8).
+* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=9).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
