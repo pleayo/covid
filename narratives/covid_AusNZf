@@ -19,16 +19,15 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?d=tree,map&p=grid)
+# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=2).     
-* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=3).  
-* [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=4).  
-* [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=5).  
-* [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=6).  
-* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=7).    
-* [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=8).
-* [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=9).
+* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
+* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
