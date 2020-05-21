@@ -1,4 +1,4 @@
-﻿---
+---
 title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
 authors:
   - Cassia Wagner
