@@ -22,7 +22,7 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 # [Table of Contents](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?d=tree,map&p=grid)
 
 * [Background resources](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=2).     
-* [A note of sampling](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=3).  
+* [Sampling methods](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=3).  
 * [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=4).  
 * [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=5).  
 * [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZf?n=6).  
