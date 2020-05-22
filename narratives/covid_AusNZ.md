@@ -185,7 +185,6 @@ I am grateful for the data gathered by these originating labs:
 * Auckland Hospital
 * Burwood Hospital, Christchurch
 * Christchurch Public Hospital
-* [Institute of Environmental Science and Research (ESR)](https://www.esr.cri.nz/home/about-esr/)
 * Queensland University
 * University of Auckland
 * University of Otago
