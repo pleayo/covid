@@ -26,7 +26,7 @@ abstract: "This report uses publicly shared phylogenetic data to track the sprea
 * [Origins of the epidemic](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=4).  
 * [COVID-19 cases in Australia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=5).  
 * [COVID-19 cases in New Zealand](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=6).  
-* [Regional spread across Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=7).    
+* [Regional spread across South-East Asia](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=7).    
 * [Takeaways](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=8).
 * [Scientific credit](https://nextstrain.org/community/narratives/pleayo/covid/AusNZ?n=9).
 
@@ -41,6 +41,7 @@ We analyzed over 2,000 publicly shared SARS-CoV-2 genomes through the community 
 * Origins of the epidemic
 * Phylogentic analysis of COVID-19 cases in Australia
 * Phylogentic analysis of COVID-19 cases in New Zealand
+* Regional spread across South-East Asia
 ```
 
 
@@ -52,14 +53,12 @@ Some resources that will make interpreting the data we present in this narrative
 #### Nextstrain Resources  
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 #### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [COVID-19 cases from the Department of Health, Australia](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers).
-* [COVID-19 cases from the Ministry of Health, New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases).
+* [Department of Health, Australia](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers).
+* [Ministry of Health, New Zealand](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases).
 <!-- There is no right-side text -->
 
 
@@ -119,7 +118,7 @@ We have a limited number of sequences from New Zealand on Nextstrain, sampled be
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Regional spread across South-East Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
 A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam.
 <br><br>
@@ -173,13 +172,13 @@ Only through the rapid sharing of genomic data and metadata are analyses such as
 <br><br>
 The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+I also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+I am grateful for the data gathered by these originating labs:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
