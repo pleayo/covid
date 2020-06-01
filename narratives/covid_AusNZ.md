@@ -148,11 +148,11 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 ```auspiceMainDisplayMarkdown
 # Takeaways
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### The outbreak in Australia and New Zealand is the result of many separate introductions from around the world.  
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### In Australia, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### In New Zealand, our government's swift decision to go to the Alert Level 4 lockdown and close our borders means the country has seen the least number of COVID cases and recovered a lot more quickly than many other countries in the world.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
